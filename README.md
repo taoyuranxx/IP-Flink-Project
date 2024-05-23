@@ -80,4 +80,4 @@ Supplier country and customer country settings in Query 7: China and United Stat
 
 **Performance analysis:**
 
-![Performance-Line](.\Performance-Line.svg)
+![Performance-Line](./Performance-Line.svg)
